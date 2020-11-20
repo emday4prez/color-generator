@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/emday4prez/color-generator/static/css/main.9f3b6256.chunk.css",
+    "main.js": "/emday4prez/color-generator/static/js/main.bc55d4c2.chunk.js",
+    "main.js.map": "/emday4prez/color-generator/static/js/main.bc55d4c2.chunk.js.map",
+    "runtime-main.js": "/emday4prez/color-generator/static/js/runtime-main.874cd735.js",
+    "runtime-main.js.map": "/emday4prez/color-generator/static/js/runtime-main.874cd735.js.map",
+    "static/js/2.da011208.chunk.js": "/emday4prez/color-generator/static/js/2.da011208.chunk.js",
+    "static/js/2.da011208.chunk.js.map": "/emday4prez/color-generator/static/js/2.da011208.chunk.js.map",
+    "index.html": "/emday4prez/color-generator/index.html",
+    "precache-manifest.b75d515b8f3283ac699211027c7879a4.js": "/emday4prez/color-generator/precache-manifest.b75d515b8f3283ac699211027c7879a4.js",
+    "service-worker.js": "/emday4prez/color-generator/service-worker.js",
+    "static/css/main.9f3b6256.chunk.css.map": "/emday4prez/color-generator/static/css/main.9f3b6256.chunk.css.map",
+    "static/js/2.da011208.chunk.js.LICENSE.txt": "/emday4prez/color-generator/static/js/2.da011208.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.874cd735.js",
+    "static/js/2.da011208.chunk.js",
+    "static/css/main.9f3b6256.chunk.css",
+    "static/js/main.bc55d4c2.chunk.js"
+  ]
+}
